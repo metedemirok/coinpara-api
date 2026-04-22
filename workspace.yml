@@ -1,0 +1,12 @@
+opencollection: 1.0.0
+info:
+  name: "Coinpara"
+  type: workspace
+
+collections:
+  - name: "Coinpara-api"
+    path: "collections/Coinpara-api"
+
+specs:
+
+docs: ''
